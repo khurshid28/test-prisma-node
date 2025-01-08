@@ -17,10 +17,10 @@
 
 
 ## when changed prisma model,
-###first step:
+### first step:
 <code>npx prisma migrate dev --name updated </code>
 
-###second step:
+### second step:
 <code>docker-compose up --build</code>
 
 
