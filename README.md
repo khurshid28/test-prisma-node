@@ -1,7 +1,7 @@
 
 
 
-<img src="https://devrecipes.net/wp-content/uploads/2024/12/dockerizing-node-postgres-prisma.webp" alt="" height="200px">
+<img src="https://devrecipes.net/wp-content/uploads/2024/12/dockerizing-node-postgres-prisma.webp" alt="" height="300px">
 
 ## when using localhost
 <code>DATABASE_URL="postgresql://user:password@localhost:5432/db_name"</code>
