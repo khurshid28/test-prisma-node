@@ -6,11 +6,11 @@
 ### when using localhost
 <code>
   DATABASE_URL="postgresql://user:password@localhost:5432/mydb"
-<code>
+</code>code>
 
 
 
 ### when using docker host
 <code>
   DATABASE_URL="postgresql://user:password@database:5432/mydb"
-<code>
+</code>code>
